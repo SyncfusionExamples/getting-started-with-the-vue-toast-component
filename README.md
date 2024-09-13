@@ -20,5 +20,5 @@ Once done with downloading, next you need to install the necessary packages requ
 npm install
 ```
 ## Running on development server
-Run `npm run dev` command. Navigate to `http://localhost:5173/`. The app will automatically reload if you change any of the source files.
+Run `npm run dev` command. Navigate to `http://localhost:5174/`. The app will automatically reload if you change any of the source files.
 
